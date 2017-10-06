@@ -1,0 +1,133 @@
+
+.section__one {
+  background-color: #40E0D0;
+  display: flex;
+}
+
+.section__two {
+  background-color: #9370DB;
+}
+
+.section__three {
+  background-color: #F08080;
+}
+
+li {
+  list-style: none;
+  background-color: #FFA07A;
+  width: 100px;
+  height: 110px;
+  margin: 20px;
+  text-align: center;
+  padding: 5px;
+  font-size: 60px;
+  font-family: 'Sue Ellen Francisco', cursive;
+  border-radius: 50%;
+  border: 6px solid white;
+  color: white;
+}
+
+ul {
+  display: flex;
+  justify-content: center;
+  padding: 0;
+  margin-top: 40px;
+}
+
+.arrow {
+  width: 40px;
+  height: 40px;
+  background-image: url(https://goo.gl/cbQUdT);
+  background-size: contain;
+  position: absolute;
+  left: 50%;
+  top: 30%;
+}
+
+h1 {
+  font-family: 'Sue Ellen Francisco', cursive;
+  font-size: 50px;
+  position: absolute;
+  left: 40%;
+}
+
+.drop__li__1__1 {
+  width: 135px;
+  height: 135px;
+  border-radius: 50%;
+  background-color: #7beadf;
+  position: absolute;
+  left: 32%;
+  top: 20%;
+}
+
+.plus__1 {
+  width: 130px;
+  height: 130px;
+  font-size: 65px;
+  font-family: 'Sue Ellen Francisco', cursive;
+  position: absolute;
+  left: 44%;
+  top: 20%;
+}
+
+.drop__li__2__1 {
+  width: 135px;
+  height: 135px;
+  border-radius: 50%;
+  background-color: #7beadf;
+  position: absolute;
+  left: 48%;
+  top: 20%;
+}
+
+.result__1 {
+  width: 130px;
+  height: 130px;
+  font-size: 65px;
+  font-family: 'Sue Ellen Francisco', cursive;
+  position: absolute;
+  left: 60%;
+  top: 20%;
+}
+
+.drop__li__1__2 {
+  width: 135px;
+  height: 135px;
+  border-radius: 50%;
+  background-color: #b299e6;
+  position: absolute;
+  left: 32%;
+  top: 53%;
+}
+
+.plus__2 {
+  width: 130px;
+  height: 130px;
+  font-size: 65px;
+  font-family: 'Sue Ellen Francisco', cursive;
+  position: absolute;
+  left: 44%;
+  top: 54%;
+}
+
+.drop__li__2__2 {
+  width: 135px;
+  height: 135px;
+  border-radius: 50%;
+  background-color: #b299e6;
+  position: absolute;
+  left: 48%;
+  top: 53%;
+}
+
+.result__2 {
+  width: 130px;
+  height: 130px;
+  font-size: 65px;
+  font-family: 'Sue Ellen Francisco', cursive;
+  position: absolute;
+  left: 60%;
+  top: 54%;
+}
+

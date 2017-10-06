@@ -1,0 +1,20 @@
+{
+  "name": "fullpage",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@shopify/draggable": "^1.0.0-beta",
+    "gsap": "^1.20.3",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-fullpage": "^0.1.18",
+    "react-scripts": "1.0.14",
+    "tone": "^0.12.6"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
